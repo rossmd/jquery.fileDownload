@@ -7,22 +7,6 @@
 		"ajax"
 	],
 	"main": "src/Scripts/jquery.fileDownload.js",
-	"ignore": [
-		"**/.gitignore",
-		"**/Common",
-		"**/Content",
-		"**/Controllers",
-		"**/Properties",
-		"**/Scripts/Support",
-		"**/Views",
-		"**/Global.asax",
-		"**/Global.asax.cs",
-		"**/jquery.fileDownload.csproj",
-		"**/jquery.fileDownload.sln",
-		"**/packages.config",
-		"**/Report.pdf",
-		"**/Web.config"
-	],
 	"dependencies": {
 		"jquery": ">= 1.6"
 	}
